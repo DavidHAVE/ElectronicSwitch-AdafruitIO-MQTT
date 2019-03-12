@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Electronic Switch</string>
+
+    <string name="pref_username_key" translatable="false">username</string>
+    <string name="pref_username_value" translatable="false">masuk</string>
+
+    <string name="pref_password_key" translatable="false">password</string>
+    <string name="pref_password_value" translatable="false">masuk1234</string>
+
+    <string name="pref_usernameaio_key" translatable="false">usernameaio</string>
+    <string name="pref_usernameaio_value" translatable="false">David0101</string>
+
+    <string name="pref_aiokey_key" translatable="false">aiokey</string>
+    <string name="pref_aiokey_value" translatable="false">2f88f84f5fe84e938631fad0cbb25fdc</string>
+
+    <string name="logout_action_menu">Logout</string>
+    <string name="settings_action_menu">Settings</string>
+
+</resources>

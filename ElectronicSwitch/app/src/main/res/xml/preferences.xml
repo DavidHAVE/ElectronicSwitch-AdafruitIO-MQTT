@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:title="Username"
+        android:summary="Ubah Username Masuk"
+        android:key="@string/pref_username_key"
+        android:defaultValue="@string/pref_username_value"/>
+
+    <EditTextPreference
+        android:title="Password"
+        android:summary="Ubah Sandi Masuk"
+        android:key="@string/pref_password_key"
+        android:defaultValue="@string/pref_password_value"/>
+
+    <EditTextPreference
+        android:title="Username Adafruit IO"
+        android:summary="Ubah Username Adafruit IO"
+        android:key="@string/pref_usernameaio_key"
+        android:defaultValue="@string/pref_usernameaio_value"/>
+
+    <EditTextPreference
+        android:title="Adafruit IO Key"
+        android:summary="Ubah Kunci Adafruit IO"
+        android:key="@string/pref_aiokey_key"
+        android:defaultValue="@string/pref_aiokey_value"/>
+</PreferenceScreen>
